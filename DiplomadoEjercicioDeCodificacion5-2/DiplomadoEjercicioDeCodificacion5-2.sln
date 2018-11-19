@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiplomadoEjercicioDeCodificacion5-2", "DiplomadoEjercicioDeCodificacion5-2\DiplomadoEjercicioDeCodificacion5-2.csproj", "{CA342CE4-FE2F-4EBB-BAFD-A82E03B7E07B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA342CE4-FE2F-4EBB-BAFD-A82E03B7E07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA342CE4-FE2F-4EBB-BAFD-A82E03B7E07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA342CE4-FE2F-4EBB-BAFD-A82E03B7E07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA342CE4-FE2F-4EBB-BAFD-A82E03B7E07B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23481604-9554-4BFA-B185-0C42BFBE5CC6}
+	EndGlobalSection
+EndGlobal

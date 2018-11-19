@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiplomadoEjercicioDeCodificacion3-1", "DiplomadoEjercicioDeCodificacion3-1\DiplomadoEjercicioDeCodificacion3-1.csproj", "{AEF192BE-1C3C-4958-AACC-F07843A054CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF192BE-1C3C-4958-AACC-F07843A054CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF192BE-1C3C-4958-AACC-F07843A054CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF192BE-1C3C-4958-AACC-F07843A054CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF192BE-1C3C-4958-AACC-F07843A054CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61EE4764-BB3F-40DF-8A0D-66478A06A288}
+	EndGlobalSection
+EndGlobal
